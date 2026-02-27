@@ -1,0 +1,357 @@
+EXPERIENCES
+Tech Co-founder
+Web3 Startup, Hong Kong, HK
+2024.12 - 2025.11
+Designed and architected full-stack
+system blueprints for two high-impact
+Web3 products:
+Lumos (custodial perpetual trading
+bot achieving $120M trading volume
+in 2 months) and
+Cabal.town (lean social wallet with
+monetization layer, acquiring 60K
+Telegram group users).
+Incorporated vibe coding methodologies
+for rapid prototyping & LLM integrations
+Led system analysis and requirement
+gathering, translating business
+objectives into scalable technical
+specifications and data flow diagrams for
+cross-chain operations, while leveraging
+data analysis libraries like PyTorch,
+Scikit-learn, and XGBoost to model
+algorithmic trading strategies for Lumos.
+Authored comprehensive technical
+documentation including API contracts,
+smart contract architecture (Solidity &
+FunC), database schema designs
+(MongoDB), and CI/CD pipeline
+workflows (GCP & GitHub Actions).
+Directed a development team in end-to-
+end implementation:
+Blockchain layer: Smart contract
+development, security audits, and
+multi-chain integration (EVM, TON,
+Solana via solana-web3.js, ethers.js).
+Backend systems: High-throughput
+server architecture using Python
+(FastAPI) and Node.js, with real-time
+event processing and webhook
+orchestration.
+Database & DevOps: Optimized
+MongoDB indexing strategies, CI/CD
+automation, and infrastructure-as-
+code standards.
+Conducted system performance tuning,
+latency analysis, and risk assessments to
+ensure sub-100ms trade execution and
+99.99% uptime under high-frequency
+load, utilizing XGBoost for anomaly
+detection in algorithmic trading.
+Reference:
+https://lumos.wtf/
+https://www.cabal.town/
+https://x.com/accelerator_ton/status/188
+9301592895320449
+ABOUT ME
+Full-stack engineer with 8+
+years of web development
+and 5 years of deep fintech
+& blockchain expertise,
+shipping high-impact
+products from regulated
+custody platforms at HSBC
+to Web3 systems.
+Passionate about solving
+hard problems at scale, I
+combine strong product
+sense, rapid AI-assisted
+development (“vibe coding”
++ LLM workflows), and
+hands-on experience to
+deliver secure, performant
+solutions.
+CONTACT
++852 6163 9607
+Ketherchau@gmail.com
+https://0x-kchau.github.io
+Tsuen Wan District, Hong
+Kong
+95%
+90%
+85%
+SKILLS
+Blockchain Development
+EVM / Cosmos / Solana /
+TON / Hyperledger Besu
+Solidity + Hardhat / Truffle +
+viem.js / web3.js / ether.js /
+FunC / DAML + Canton
+The Graph / Moralis /
+Alchemy OpenZeppelin 
+Defi / Tokenization / RWA
+Custody Wallet / Key
+Frontend Development
+TypeScript
+React + Next.js
+Tailwind CSS + MUI
+Redux / Zustand +
+React-query
+Vite / Webpack
+Jest + Cypress +
+Playwright
+Backend Development
+Node.js + Express.js /
+Fastify / Next.js
+Python + FastAPI
+Java / Kotlin + Springboot
+MongoDB / PostgreSQL
+Auth.js / Passport.js
+Swagger / OpenAPI 
+Websocket / MQ 
+Redis / Kafka
+Prisma
+Kether Chau
+F U L L  S T A C K  E N G I N E E R
+65%
+Dev Ops
+GCP / AWS 
+Vercel / Netlify /
+Cloudflare
+Docker + Kubernetes
+(k8s)
+Github actions / Jenkins /
+Travis CI
+Ansible / Terraform
+45%
+Others
+Cryptography (Elliptic
+curves / Hash & Merkle
+trees / ECDSA, EDDSA /
+AES encryption / Zero-
+knowledge proofs)
+Vide coding (Cursor /
+Codex)
+LLM Integration (gpt5 /
+gemini 3 / claude 4 etc)
+Data analysis (Tensorflow
+/ PyTorch / Keras / Scikit-
+learn / XGBoost)
+AI frameworks (Hugging
+Face Transformers /
+LangChain / Ollama /
+vLLM)
+Senior Full-stack DLT Engineer
+HSBC, Hong Kong, HK
+2022.10 - 2024.12
+Spearheaded system design and
+architecture for a digital asset custody
+platform supporting tokenized securities
+on public blockchains, delivering
+enterprise-grade security, compliance,
+and scalability for institutional clients.
+Conducted in-depth system analysis,
+mapping regulatory requirements
+(KYC/AML, audit trails) to technical
+workflows, and produced detailed
+technical design documents (TDDs),
+sequence diagrams, and data lineage
+models.
+Authored and maintained API
+specifications, smart contract interface
+docs, and integration playbooks for
+public blockchain gateways and internal
+systems (SWIFT, MQ, Kafka).
+Led a cross-functional development
+team in full lifecycle execution:
+Backend & Integration: Designed
+microservices architecture using
+Kotlin, Java, Spring Boot, with event-
+driven patterns via Kafka and MQ for
+real-time settlement.
+Database & DevOps: Engineered
+PostgreSQL schema with partitioned
+tables for high-volume transaction
+logs; implemented automated CI/CD
+pipelines using GCP, Jenkins, GitHub
+Actions.
+DLT & Blockchain Layer: Directed
+development of secure custody logic
+using Hyperledger Besu, DAML, and
+Canton; integrated public blockchain
+interactions (EVM/Solidity) for asset
+tokenization and cross-chain
+transfers.
+Performed system performance
+benchmarking, latency optimization (sub-
+50ms confirmation), and disaster
+recovery planning to meet HSBC's zero-
+downtime SLA.
+Bridged technical and business teams by
+presenting system capabilities, risk
+mitigations, and ROI projections to senior
+stakeholders, securing executive
+approval and enabling successful go-live
+featured on CNBC.
+Reference:
+https://www.cnbc.com/2023/11/08/hsbc-
+to-launch-custody-services-for-
+tokenized-securities.html
+Full-stack Blockchain Engineer
+Crypto.com, Hong Kong, HK
+2021.12 - 2022.10
+Designed and documented the full
+system architecture for Cronos native
+NFT marketplace--a high-throughput,
+EVM-compatible Layer 1 blockchain
+platform--enabling seamless minting,
+trading, and royalty distribution for
+digital assets.
+Conducted system requirements
+analysis, producing technical design
+specifications, API contracts (GraphQL),
+and smart contract interface documents
+to ensure secure, scalable DApp
+interactions.
+Contribute end-to-end development and
+integration across frontend, backend,
+and blockchain layers:
+DApp Layer: Built responsive, real-
+time UI using React, integrated with
+Solidity smart contracts via Hardhat
+for deployment, testing, and
+verification; implemented GraphQL
+subgraphs for indexed on-chain data
+querying.
+Backend Services: Engineered REST
+and WebSocket APIs using Kotlin +
+Spring Boot, handling user
+authentication, transaction
+orchestration, and off-chain metadata
+storage.
+Blockchain R&D: Conducted core
+research on EVM execution and
+Cosmos SDK interoperability,
+optimizing gas efficiency and cross-
+chain messaging for future scalability.
+Established CI/CD pipelines with
+automated contract testing, security
+scans, and staging deployments to
+support rapid feature iteration and zero-
+downtime releases.
+Collaborated with product and
+compliance teams to align technical
+implementation with regulatory and UX
+goals, driving successful marketplace
+launch and user adoption.
+Reference:
+https://crypto.com/university/what-is-
+cronos
+https://minted.network/
+Full-stack Web Developer
+GOGOX, Hong Kong, HK
+2020.11 - 2021.12
+Developed and maintained the GOGOX
+Energy web portal, a B2B/B2C logistics
+platform enabling real-time delivery
+tracking, order management, and fleet
+optimization for Hong Kong's leading on-
+demand logistics startup.
+Built responsive, high-performance
+frontend components using React.js and
+TypeScript, delivering seamless user
+experiences across web and mobile
+browsers.
+Engineered scalable backend services
+with Node.js and Next.js, leveraging
+server-side rendering and API routes for
+fast load times and dynamic content
+delivery.
+Deployed and managed production
+infrastructure using Vercel for zero-
+downtime releases and GCP with Docker
+for containerized microservices, ensuring
+reliability under peak traffic.
+Collaborated with product and
+operations teams to rapidly iterate on
+features, improving delivery scheduling
+and driver assignment workflows.
+Reference:
+https://www.gogox.com/hk/
+https://gogoxenergy.hk/
+Full-stack Web Developer
+NTT DATA, Hong Kong, HK
+2019.11 - 2020.11
+Built and enhanced a secure merchant
+portal for NTT DATA's payment gateway
+platform, enabling clients to manage
+transactions, view real-time analytics,
+and configure payment workflows in a
+fintech environment.
+Developed responsive, state-managed
+frontend interfaces using React, Redux,
+and Ant Design, delivering intuitive
+dashboards and configuration tools for
+merchants.
+Implemented robust backend services
+with Java and Spring Boot, handling
+payment processing, webhook
+integrations, and data synchronization
+with external financial systems.
+Automated deployment and scaling using
+AWS CI/CD pipelines, ensuring high
+availability, rapid feature releases, and
+compliance with security standards.
+Collaborated closely with product and
+compliance teams to deliver reliable,
+user-focused features that improved
+merchant onboarding and transaction
+visibility.
+Web Developer
+Liricco Technologies Ltd, Hong Kong, HK
+2018.8 - 2019.11
+Liricco is an IoT company which provides
+B2B cloud-based lighting and health
+solutions. 
+Developed responsive, state-managed
+frontend interfaces using React, HTML5,
+SCSS, delivering intuitive client portal.
+Working Holiday in UK
+Freelancer, UK
+2016.8 - 2018.8
+Spent every evening after pub shifts
+teaching myself programming through
+freeCodeCamp and YouTube, building
+small projects.
+Marketing Executive
+Marketing firm, Hong Kong
+2013.9 - 2016.8
+Managing client onboarding and payment
+workflows for cross-border merchants.
+EDUCATION
+Bachelor's Degree in Computer Science
+Staffordshire University, United Kingdom
+Bachelor's degree, Computer Science
+09/2019 - 09/2021
+Bachelor's Degree in Business
+Administration
+Hong Kong Shue Yan University
+Bachelor's degree, Business Administration
+09/2011 - 09/2013
+CHARACTER
+Self-motivation
+Problem solving
+Communication
+Logical thinking
+Adaptability
+Time management
+Poised under pressure
+HOBBIES
+Basketball
+Reading
+Movie
+Travel
+Great food
+Great wine
+Great life
+
